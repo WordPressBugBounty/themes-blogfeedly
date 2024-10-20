@@ -1,0 +1,22 @@
+- Changelog: 1.0 initial - 
+- Redesigned header
+- Design adjustments to page & post
+- Redesigned navigation
+- Added new options to the customizer
+- Redesigned widgets
+- Removed dropdown on desktop & made nav show on default
+- Adjustments to blog feed
+- Redesigned blog feed navigation
+- Design adjustments to archive
+- Redesigned post navigation
+- Added new features
+- Replaced colors
+- Design adjustments to 404
+- Redesigned footer
+- Rewrote customizer options
+- Added a right sidebar to the theme
+- Design adjustments to search & search results
+- Added live preview of customizer changes
+
+- Changelog: 1.3 initial - 
+- Integrated dropdown menu
