@@ -2,9 +2,9 @@
 
 Contributors: ThemeEverest  
 Requires at least: 4.0
-Tested up to: 5.9
-Stable tag: 3.1
-Version: 3.1
+Tested up to: 6.9
+Stable tag: 5.6
+Version: 5.6
 Author URI: https://superbthemes.com/ 
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
@@ -19,7 +19,7 @@ It does not matter if you want to create a classic news website, online editoria
 
 ## Copyright
 
-BlogFeedly WordPress Theme, Copyright 2022 ThemeEverest
+BlogFeedly WordPress Theme, Copyright 2026 ThemeEverest
 BlogFeedly is distributed under the terms of the GNU GPL
 All files coded by me is under GPLv2 http://www.gnu.org/licenses/gpl-2.0.html
 
